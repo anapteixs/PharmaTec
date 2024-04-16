@@ -7,7 +7,7 @@
 
 
 ## 📒 Descrição
-Este Ebook explora a aplicabilidade da Inteligência Artificial (IA) na prática farmacêutica, focando nas possíveis inovações e transformações no setor de saúde. Discutimos os impactos positivos da IA na eficiência e no gerenciamento de medicamentos, além de propor projetos específicos de data science para otimizar a gestão de estoques em farmácias hospitalares. 
+Este eBook explora a aplicabilidade da Inteligência Artificial (IA) na prática farmacêutica, focando nas possíveis inovações e transformações no setor de saúde. Discutimos os impactos positivos da IA na eficiência e no gerenciamento de medicamentos, além de propor projetos específicos de data science para otimizar a gestão de estoques em farmácias hospitalares. 
 
 
 ## 🤖 Tecnologias Utilizadas
