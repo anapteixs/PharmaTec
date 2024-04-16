@@ -1,7 +1,7 @@
 
 <img src="https://th.bing.com/th/id/OIG1.Gqb55lpS411ZwCA59xtE?pid=ImgGn" width="200" align="left" />
 
-# FarmaTec – O Futuro de Práticas Farmacêuticas com Inteligência Artificial 
+# PharmaTec – O Futuro de Práticas Farmacêuticas com Inteligência Artificial 
 
 
 
